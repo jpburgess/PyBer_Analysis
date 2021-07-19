@@ -9,4 +9,3 @@ The purpose of this analysis was to investigate ride share data for different ci
 
 ![summary](Analysis/summary dataframe.PNG)
 
-![plot](Analysis/PyBer_fare_summary.png)

@@ -9,13 +9,13 @@ The purpose of this analysis was to investigate ride share data for different ci
 
 ![summary](https://github.com/jpburgess/PyBer_Analysis/blob/0ea310538b73f705620e369d832d851dcd3c30ad/Analysis/summary%20dataframe.PNG)
 
-Looking at the average fare per driver we can clearly see that, on average, drivers make more per ride the less densly populated the city type.  This is balanced by the fact that there are more rides available the more densely populated the city type.  
+Looking at the average fare per driver and average fare per ride we can clearly see that, on average, drivers make more per ride in the less densly populated city types.  This is balanced by the fact that there are more rides available the more densely populated the city type.  
 
 ### Total Fare by City Type
 
 ![plot](Analysis/PyBer_fare_summary.png)
 
-This chart shows the clear differences in total fare between the city types.  Even though the average ride in urban areas has nearly a third less fare than rural rides the total amount of rides in urban areas more than makes up for that difference.  
+This chart shows the clear differences in total fare between the city types.  Even though the average ride in urban areas has nearly a third less fare than rural rides the total amount of rides in urban areas more than makes up for that difference.  There are more rides than drivers in suburban and rural areas but not in urban areas.  Additionally the total amount of fares for urban areas is more than double that of suburban areas.  Furthermore the total amount of fares for suburban areas is almost 4.5 times more than rural areas. 
 
 ## Summary Reccomendations
 
